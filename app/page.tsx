@@ -139,10 +139,7 @@ export default function GSMCarwashHomepage() {
           <div className="projectGrid">
             {projects.map((project) => (
               <article key={project.name} className="projectCard">
-                <div className="projectPlaceholder">![Image
-](https://github.com/user-attachments/assets/4021a391-df52-4313-beaf-f712322eb7d0)
-
-</div>
+                <div className="projectPlaceholder">시공사례</div>
                 <div className="projectBody">
                   <div className="projectTitle">시공 사례</div>
                 </div>
