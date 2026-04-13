@@ -2,7 +2,7 @@ export default function GSMCarwashHomepage() {
   const products = [
     {
       title: "터널세차기",
-      desc: "대형 차량 흐름에 적합한 고효율 자동 세차 시스템으로, 빠른 처리량과 안정적인 운영이 강점입니다.",
+      desc: "소형 RV 차량 흐름에 적합한 고효율 자동 세차 시스템으로, 빠른 처리량과 안정적인 운영이 강점입니다.",
       features: ["대량 세차 대응", "운영 효율 향상", "맞춤형 설계 가능"],
     },
     {
