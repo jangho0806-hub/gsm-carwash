@@ -16,5 +16,3 @@
 DNS 예시:
 - A / @ / 76.76.21.21
 - CNAME / www / cname.vercel-dns.com
-
-
