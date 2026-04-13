@@ -139,7 +139,7 @@ export default function GSMCarwashHomepage() {
           <div className="projectGrid">
             {projects.map((project) => (
               <article key={project.name} className="projectCard">
-                <div className="projectPlaceholder">시공사례</div>
+                <div className="projectPlaceholder"><img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://private-user-images.githubusercontent.com/275295064/577260943-4021a391-df52-4313-beaf-f712322eb7d0.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzYwNzE4MTgsIm5iZiI6MTc3NjA3MTUxOCwicGF0aCI6Ii8yNzUyOTUwNjQvNTc3MjYwOTQzLTQwMjFhMzkxLWRmNTItNDMxMy1iZWFmLWY3MTIzMjJlYjdkMC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNDEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDQxM1QwOTExNThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xYjViYTZiMGE1M2YzNjE0NDM5Y2EzYjEzYTgxMjNkODFlMDA2YzVhNDVlMTE3Y2ZkNzY0YWE0MGI2MDFiZTFiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZqcGVnIn0.ybTlh_1qzhwz1Ugdi1D2paDqrFO5oyrynBBdgyMqj0I" width="725" height="544"></div>
                 <div className="projectBody">
                   <div className="projectTitle">시공 사례</div>
                 </div>
