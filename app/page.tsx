@@ -27,11 +27,11 @@ export default function GSMCarwashHomepage() {
     },
   ];
 
-  const projects = [
-    { name: "시공 사례 01" },
-    { name: "시공 사례 02" },
-    { name: "시공 사례 03" },
-  ];
+const projects = [
+  { name: "시공 사례 01", image: "/images/project1.jpg" },
+  { name: "시공 사례 02", image: "/images/project2.jpg" },
+  { name: "시공 사례 03", image: "/images/project3.jpg" },
+];
 
   return (
     <main className="page">
@@ -139,7 +139,7 @@ export default function GSMCarwashHomepage() {
           <div className="projectGrid">
             {projects.map((project) => (
               <article key={project.name} className="projectCard">
-                <div className="projectPlaceholder">이미지 영역</div>
+                <img src={project.image} alt={project.name} className="projectImage" />
                 <div className="projectBody">
                   <div className="projectTitle">시공 사례</div>
                 </div>
