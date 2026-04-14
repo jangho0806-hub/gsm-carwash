@@ -29,7 +29,7 @@ export default function GSMCarwashHomepage() {
 
 const projects = [
   { name: "시공 사례 01", image: "/images/project1.jpg" },
-  { name: "시공 사례 02", image: "/images/project2.jpg" },
+  { name: "회사 전경 02", image: "/images/project2.jpg" },
   { name: "시공 사례 03", image: "/images/project3.jpg" },
 ];
 
