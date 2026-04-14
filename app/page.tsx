@@ -28,9 +28,9 @@ export default function GSMCarwashHomepage() {
   ];
 
 const projects = [
-  { name: "시공 사례 01", image: "/images/project1.jpg" },
-  { name: "회사 전경 02", image: "/images/project2.jpg" },
-  { name: "시공 사례 03", image: "/images/project4.jpg" },
+  { name: "터널세차기 01", image: "/images/project1.jpg" },
+  { name: "문형세차기 02", image: "/images/project2.jpg" },
+  { name: "대형세차기 03", image: "/images/project4.jpg" },
 ];
 
   return (
