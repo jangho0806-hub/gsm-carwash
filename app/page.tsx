@@ -101,7 +101,7 @@ const projects = [
           <div className="infoCard">
             <div className="infoBox">
               <div className="label">회사명</div>
-              <div className="value">GSM자동화세차기,지에스엠</div>
+              <div className="value">GSM자동화세차기</div>
               <div className="label gapTop">사업분야</div>
               <div className="value">자동세차기 제조 · 판매 · 시공 · 유지관리</div>
             </div>
